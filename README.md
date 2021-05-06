@@ -1,4 +1,4 @@
-Portofolio Gantt Editor 
+<h1>Portofolio Gantt Editor </h1>
 
 This is a clone of https://github.com/robicch/jQueryGantt
 
@@ -11,7 +11,9 @@ These are some key features:
 * MIT licensed: you can reuse everywhere https://opensource.org/licenses/MIT
 * JSON import-export
 * manage task status –> project workflow
+* manage differently summary tasks and ressource tasks
 * manage dependencies
+* allow full working week tasks 
 * manage assignments (resources, roles, work, remaining work, actual work)
 * server synchronization 
 * full undo-redo support
@@ -25,3 +27,4 @@ These are some key features:
 * zoom
 * include others gantt 
 * import excel tasks 
+
